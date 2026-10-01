@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Jupyter / runtime
+.jupyter/
+*.log
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local medical datasets — do not commit source images
+/data/Dataset_BUSI_with_GT/
+/data/raw_roi_dataset/
+/data/preprocessed_roi_dataset/
+/data/BrEaST-Lesions-USG/
+/data/metadata/*.xlsx
+/data/metadata/*.xls
+/data/metadata/*.csv
+
+# Model artifacts and large generated outputs
+*.keras
+*.h5
+*.ckpt
+*.weights.h5
+results/**/models/
+results/**/checkpoints/
+results/**/predictions/
+results/**/machine_manifest*
+*.tmp
+*.bak
