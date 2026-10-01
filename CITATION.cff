@@ -4,6 +4,7 @@ title: "Evaluating Localization, Attribution, and External Generalization in Gro
 type: software
 version: 1.0.0
 date-released: 2026-10-01
+doi: "10.5281/zenodo.23080984"
 repository-code: "https://github.com/israel-alabi1/breast-ultrasound-localization-study"
 license: MIT
 authors:
