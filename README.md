@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1399152209.svg)](https://doi.org/10.5281/zenodo.23080984)
+
 # Evaluating Localization, Attribution, and External Generalization in Ground-Truth-Localized Breast Ultrasound Lesion Classification
 
 This repository contains the frozen, publication-oriented analysis code for a study of breast ultrasound lesion classification under controlled localization, attribution, preprocessing, and external-validation conditions.
