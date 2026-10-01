@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the software release and the associated manuscript."
+title: "Evaluating Localization, Attribution, and External Generalization in Ground-Truth-Localized Breast Ultrasound Lesion Classification"
+type: software
+version: 1.0.0
+date-released: 2026-10-01
+repository-code: "https://github.com/israel-alabi1/breast-ultrasound-localization-study"
+license: MIT
+authors:
+  - family-names: Alabi
+    given-names: Israel Oluwamayomikun
+keywords:
+  - breast ultrasound
+  - breast lesion classification
+  - deep learning
+  - VGG16
+  - Grad-CAM
+  - external validation
+  - calibration
+  - medical imaging
+abstract: >-
+  Publication-oriented code for evaluating ground-truth-localized breast ultrasound
+  lesion classification, including leakage-controlled internal evaluation,
+  localization robustness, Grad-CAM attribution, preprocessing ablation,
+  probability calibration, and zero-shot external validation.
